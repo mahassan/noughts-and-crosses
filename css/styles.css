@@ -30,7 +30,6 @@ a {
   text-decoration: none;
   color: white;
 }
-.inactiveLink {
-  pointer-events: none;
-  cursor: default;
+div#board {
+  cursor: pointer;
 }
